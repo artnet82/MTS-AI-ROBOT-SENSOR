@@ -1,5 +1,4 @@
-# MTS-AI-ROBOT-SENSOR
-"Wireless Sensor Audio Recorder" (Беспроводной записывающий аудио датчик) или "Smart Environmental Audio Monitor" (Умный аудио монитор окружающей среды). 
+# MTS-AI-ROBOT-SENSOR "Smart Environmental Audio Monitor" (Умный аудио монитор окружающей среды). 
 
 
 
